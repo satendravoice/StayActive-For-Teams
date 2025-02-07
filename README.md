@@ -18,6 +18,12 @@ This tool features an intuitive **GUI**, a **progress bar**, and a **timer** to 
 
 ---
 
+## 🖼️ Screenshots
+Here is how the tool looks in action:
+
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/1aea45b0-a56d-4137-b739-06ce45cf0b94" />
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/c1fbc9ae-255a-46fb-9f1f-1bd7c5964595" />
+
 ## 🛠️ Requirements
 
 To run **StayActive-For-Teams**, you’ll need:
@@ -26,7 +32,7 @@ To run **StayActive-For-Teams**, you’ll need:
 - **PyQt5**
 - **pyautogui**
 
-How to Run
+## How to Run
 Follow these steps to get the tool up and running on your local machine:
 
 ## 1️⃣ Clone the Repository
@@ -46,24 +52,14 @@ Open the terminal (or command prompt) and run:
 The tool will now keep your Microsoft Teams status "Available" and prevent it from going idle.
 Minimize it to the system tray and let it work silently while you do other tasks.
 
-## 🖼️ Screenshots
-Here is how the tool looks in action:
-
-<img width="311" alt="image" src="https://github.com/user-attachments/assets/1aea45b0-a56d-4137-b739-06ce45cf0b94" />
-<img width="302" alt="image" src="https://github.com/user-attachments/assets/c1fbc9ae-255a-46fb-9f1f-1bd7c5964595" />
-
 
 ## 📜 License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-## 🤣 Joke of the Day
-"This app is so active, even your coffee might get jealous!"
-
 ## 📬 Reach Me
 For any questions, issues, or just to connect:
 📷 Instagram: @satendragoswamii
-🐱 GitHub Repository: StayActive-For-Teams
-I'm always happy to connect! 🚀😊
+I'm always happy to connect! Feel free to give your feedback and suggestion. Thank you!🚀😊
 
 
