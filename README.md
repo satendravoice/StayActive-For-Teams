@@ -1,33 +1,27 @@
-# Teams-Active-Tool
+# StayActive-For-Teams
 
-**Teams-Active-Tool** is a Python app that prevents Microsoft Teams from going idle by simulating user activity. With a simple GUI, it keeps your Teams status as "Available" even when you're away. It includes a progress bar, elapsed time tracker, and system tray integration for background operation.
+**StayActive-For-Teams** is a Python-based application designed to keep Microsoft Teams active and prevent it from marking you as idle. It simulates user activity (by moving the mouse), ensuring that your Teams status stays as **"Available"** even when you’re away from your computer.
+
+This tool is equipped with a **simple GUI**, a **progress bar**, and a **timer** to track how long the app has been running. You can also minimize the app to the system tray and keep it running in the background while you focus on other tasks.
 
 ## Features
 
-- **Prevents Microsoft Teams from going idle** by simulating user activity.
-- **Real-time progress bar** to show each cycle.
-- **Tracks elapsed time** since the automation started.
-- **System tray integration** to run the tool in the background.
-- **Fun joke line** at the bottom to make you smile!
+- **Prevents Microsoft Teams from going idle** by simulating mouse movements.
+- **Real-time progress bar** that shows the automation cycle’s progress.
+- **Tracks elapsed time** since the tool started, so you can know how long you've been away.
+- **System tray integration**, allowing you to minimize and run the app in the background.
+- **User-friendly interface**, with easy-to-follow instructions and a smooth experience.
+- **Fun and lighthearted joke** to make you smile while using the app.
 
 ## Requirements
 
-To run this tool, you need the following dependencies:
+To run **StayActive-For-Teams**, you’ll need to install the following dependencies:
 
-- Python 3
+- Python 3.x
 - PyQt5
 - pyautogui
 
-You can install the necessary libraries using the following command:
+You can install these libraries using **pip** by running the following command:
 
 ```bash
 pip install PyQt5 pyautogui
-
-## How to Run
-
-Follow these steps to get the Teams-Active-Tool up and running on your local machine:
-
-1. **Clone the Repository**:
-   Clone the repository to your local machine using Git. Open your terminal or command prompt and run:
-   ```bash
-   git clone https://github.com/satendravoice/StayActive-For-Teams
