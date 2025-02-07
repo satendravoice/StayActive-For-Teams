@@ -30,4 +30,4 @@ Follow these steps to get the Teams-Active-Tool up and running on your local mac
 1. **Clone the Repository**:
    Clone the repository to your local machine using Git. Open your terminal or command prompt and run:
    ```bash
-   git clone https://github.com/yourusername/Teams-Active-Tool.git
+   git clone https://github.com/satendravoice/StayActive-For-Teams
