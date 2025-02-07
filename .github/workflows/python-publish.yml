@@ -33,7 +33,7 @@ jobs:
 
       - name: Publish to PyPI
         env:
-          PYPI_USERNAME: ${{ secrets.PYPI_satendragoswamii }}
-          PYPI_PASSWORD: ${{ secrets.PYPI_pypi-AgEIcHlwaS5vcmcCJDNlYWYxODg2LTY0NDQtNGM1MS1hYzAwLWJkM2ExM2E2MGIwMQACKlszLCJiOTVlMWRhZC05Mjk2LTQ5NGItOTY0NS1kZGI0MDE2ZmE2NGIiXQAABiAR8u_BZmTOaYTAJYvULXyQkV8XM3zFsCbWhohL9FFxCQ }}
+          PYPI_USERNAME: ${{ secrets.PYPI_USERNAME }}
+          PYPI_PASSWORD: ${{ secrets.PYPI_PASSWORD }}
         run: |
           python -m twine upload --username "$PYPI_USERNAME" --password "$PYPI_PASSWORD" dist/*
